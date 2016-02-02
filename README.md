@@ -21,7 +21,7 @@ violations found.
 
 ## Installation / Development
 
-Run `./setup.sh` from the project root.
+Run `./setup.sh` from the project root. *Note*: There are <a href="https://github.com/haskell/cabal/issues/2653">issues installing ghc 7.8.4 on El Capitan</a>, but you can workaround this by <a href="http://osxdaily.com/2015/10/05/disable-rootless-system-integrity-protection-mac-os-x/">disabling the rootless feature</a>.
 
 If all you want is to use fluff, you are done. Just add bin/ to your PATH.
 
